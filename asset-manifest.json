@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zoho-mail-ui/static/css/main.2503fef5.css",
-    "main.js": "/zoho-mail-ui/static/js/main.aab1bd1d.js",
-    "static/js/787.3a3b84b2.chunk.js": "/zoho-mail-ui/static/js/787.3a3b84b2.chunk.js",
-    "static/media/mail-logo-safari.svg": "/zoho-mail-ui/static/media/mail-logo-safari.c90d64a165a15454e033f98a0a2f9597.svg",
-    "index.html": "/zoho-mail-ui/index.html",
-    "main.2503fef5.css.map": "/zoho-mail-ui/static/css/main.2503fef5.css.map",
-    "main.aab1bd1d.js.map": "/zoho-mail-ui/static/js/main.aab1bd1d.js.map",
-    "787.3a3b84b2.chunk.js.map": "/zoho-mail-ui/static/js/787.3a3b84b2.chunk.js.map"
+    "main.css": "/static/css/main.2503fef5.css",
+    "main.js": "/static/js/main.c045fd6f.js",
+    "static/js/787.3a3b84b2.chunk.js": "/static/js/787.3a3b84b2.chunk.js",
+    "static/media/mail-logo-safari.svg": "/static/media/mail-logo-safari.c90d64a165a15454e033f98a0a2f9597.svg",
+    "index.html": "/index.html",
+    "main.2503fef5.css.map": "/static/css/main.2503fef5.css.map",
+    "main.c045fd6f.js.map": "/static/js/main.c045fd6f.js.map",
+    "787.3a3b84b2.chunk.js.map": "/static/js/787.3a3b84b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2503fef5.css",
-    "static/js/main.aab1bd1d.js"
+    "static/js/main.c045fd6f.js"
   ]
 }
