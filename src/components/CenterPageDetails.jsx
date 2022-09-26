@@ -23,7 +23,7 @@ function CenterPageDetails({ showTab }) {
     return (
         <>
             <Routes>
-                <Route index element={<Mail />} />
+                <Route index path="/" element={<Mail />} />
                 <Route path="/group" element={<Group />} />
                 <Route path="/streams/home" element={<StreamsHome />} />
                 <Route path="/streams/unread" element={<StreamsUnread />} />
